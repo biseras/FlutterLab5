@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130747591427",
+    "project_id": "labcetiri",
+    "storage_bucket": "labcetiri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130747591427:android:a877d297a10f839a721736",
+        "android_client_info": {
+          "package_name": "com.example.labcetiri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130747591427-6t92dh6685jhdejp2vasdsu878hbfvjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqLjR6ENYFJ4tRXItc67Du-Da5Ga942Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130747591427-6t92dh6685jhdejp2vasdsu878hbfvjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
